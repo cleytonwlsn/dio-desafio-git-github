@@ -1,0 +1,6 @@
+Principais comandos Git
+
+git clone --> clona um repositório remoto para o repositório local
+git add -a --> adiciona os arquivos e pastas alterados para serem commitados para o repositório remoto
+git commit -m "texto de descrição" --> commita os arquivos
+git push origin main/master --> envia os arquivos do servidor local para o remoto
